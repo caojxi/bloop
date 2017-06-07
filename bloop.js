@@ -1,0 +1,2 @@
+!function(e,o){if("function"==typeof define&&define.amd)define(["exports","./h","./component"],o);else if("undefined"!=typeof exports)o(exports,require("./h"),require("./component"));else{var n={exports:{}};o(n.exports,e.h,e.component),e.bloop=n.exports}}(this,function(e,o,n){"use strict";e.default={h:o.h,component:component},e.h=o.h,e.component=component});
+//# sourceMappingURL=bloop.js.map

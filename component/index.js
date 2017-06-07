@@ -1,0 +1,2 @@
+(function(global,factory){if(typeof define === 'function' && define.amd){define(['exports','./createClass'],factory);}else if(typeof exports !== 'undefined'){factory(exports,require('./createClass'));}else {var mod={exports:{}};factory(mod.exports,global.createClass);global.index = mod.exports;}})(this,function(exports,_createClass){'use strict';exports.createClass = _createClass['default'];});
+//# sourceMappingURL=index.js.map

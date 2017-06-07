@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/h/index.js"],"names":[],"mappings":"iSAAO,SAAS,CAAC,CAAC,QAAQ,CAAE,UAAU,CAAE,EAEvC","file":"index.js","sourceRoot":"src","sourcesContent":["export function h(nodeName, attributes) {\n\n}\n"]}

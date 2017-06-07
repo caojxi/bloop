@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/component/index.js"],"names":[],"mappings":"oWAGE,WAAW","file":"index.js","sourceRoot":"src","sourcesContent":["import createClass from './createClass'\n\nexport {\n  createClass\n}\n"]}

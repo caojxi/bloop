@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <script src="preact.js"></script>
+  </head>
+  <body>
+    <div id="a"></div>
+
+    <!-- Load Babel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.24.2/babel.js"></script>
+    <!-- Your custom script here -->
+    <script type="text/babel">
+    let { h } = preact;  // import { ... } from 'preact';
+
+    console.log(h('div', { class: 'lead well', style: { color: 'red', fontWeight: 10 } }))
+    </script>
+  </body>
+
+</html>

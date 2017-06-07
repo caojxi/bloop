@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/component/create-class.js"],"names":[],"mappings":"8SAAe,WAAW,GAAG,UAAY,EAExC","file":"create-class.js","sourceRoot":"src","sourcesContent":["export default createClass = function () {\n\n}\n"]}
